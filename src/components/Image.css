@@ -1,0 +1,22 @@
+.tap {
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    background-color: yellow;
+}
+
+.current-tap {
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    background-color: red;
+}
+
+.tap-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.full-width {
+    width: 100%;
+}
